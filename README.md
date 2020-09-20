@@ -1,2 +1,2 @@
-# TikTokGameOnline
-TikTok Game Online
+# TicTacToeGameOnline
+Tic Tac Toe Game Online
